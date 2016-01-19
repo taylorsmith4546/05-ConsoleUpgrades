@@ -1,0 +1,14 @@
+C:\Dev\GitHub\Test\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\WpfTest.csprojResolveAssemblyReference.cache
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Dev\GitHub\Test\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Dev\GitHub\Test\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.Cache
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Dev\GitHub\Test\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
